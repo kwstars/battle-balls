@@ -1,0 +1,8 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+  "files.associations": {
+    "string.h": "c",
+    "stdlib.h": "c",
+    "pthread.h": "c"
+  },
+}
